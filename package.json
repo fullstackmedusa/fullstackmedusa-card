@@ -1,6 +1,6 @@
 {
   "name": "fullstackmedusa",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "description": "A personal card for Alo Maldonado (@fullstackmedusa)",
   "main": "/bin/card.js",
   "bin": {
