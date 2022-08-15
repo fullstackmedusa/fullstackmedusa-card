@@ -1,7 +1,7 @@
 {
-  "name": "bitandbang",
+  "name": "fullstackmedusa",
   "version": "2.1.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Alo Maldonado (@fullstackmedusa)",
   "main": "/bin/card.js",
   "bin": {
     "fullstackmedusa": "./bin/card.js"
@@ -37,7 +37,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/lark09/fullstackmedusacard/issues"
   },
   "dependencies": {}
 }
